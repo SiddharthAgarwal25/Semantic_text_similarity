@@ -64,7 +64,8 @@ Pygments==2.13.0
 Pympler==1.0.1
 pyparsing==3.0.9
 pyperclip==1.8.2
-pypiwin32==223pyrsistent==0.18.1
+pypiwin32==223
+pyrsistent==0.18.1
 python-dateutil==2.8.2
 pyttsx3==2.90
 pytz==2022.1
